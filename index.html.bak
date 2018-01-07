@@ -3,8 +3,7 @@ Author: W3layoutsAuthor URL: http://w3layouts.comLicense: Creative Commons Attri
 <!DOCTYPE html><html lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Apt Resume a Personal Category Bootstrap Responsive website Template
-      | Home :: w3layouts</title>
+    <title>Fan Jinchang's personal website | Home :: w3layouts</title>
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="keywords" content="Apt Resume Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
@@ -202,48 +201,109 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
           <div class="scrollbar agileits w3layouts" id="style-1">
             <div class="activity-row agileits w3layouts">
               <div class="activity-img agileits w3layouts">
-                <h6>2016-present</h6>
+                <h6>10/2016-present</h6>
               </div>
               <div class="activity-desc agileits w3layouts">
-                <h5>Lorem Ipsum</h5>
-                <p class="para-agileits-w3layouts">Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit. Pellentesque nec congue risus. In
-                  non nulla lacus. Maecenas eros sapien, eleifend quis augue eu,
-                  pellentesque tincidunt tellus.</p>
+                <h5>Analysis of Internet of Vehivle data</h5>
+                <p class="para-agileits-w3layouts">Business cooperation with
+                  Cihon company, an Internet of vehicle data provider. Dealt
+                  with data collected from
+                  the vehicle every second.</p>
+                <p class="para-agileits-w3layouts">
+                  • (in progress) Developed algorithm to report vehicle accident
+                  automatically, based on complex logical gate
+                  over detection of instant acceleration, vehicle velocity, and
+                  door state. Till now it performed accuracy of 50
+                  percent</p>
+                <p class="para-agileits-w3layouts">
+                  • Summarized path characters to activation of driving,
+                  including regularly visit points, repeated path every
+                  day, and ratio of mileage and translocation. These characters
+                  could distinguish patterns of driving habits
+                  and classify drivers into commuting, long haul, or taxi </p>
+                <p class="para-agileits-w3layouts">• Depicted user portrait and
+                  employed clustering analysis to divide users into 5 different
+                  groups. Users in
+                  different groups represented distinct difference in risk of
+                  accident. It was considered as risk factor in the
+                  pricing of Usage Based Insurance</p>
               </div>
             </div>
             <div class="activity-row agileits w3layouts">
               <div class="activity-img agileits w3layouts">
-                <h6>2014-2016</h6>
+                <h6>10/2017-11/2017</h6>
               </div>
               <div class="activity-desc agileits w3layouts">
-                <h5>Dolores</h5>
-                <p class="para-agileits-w3layouts">Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit. Pellentesque nec congue risus. In
-                  non nulla lacus. Maecenas eros sapien, eleifend quis augue eu,
-                  pellentesque tincidunt tellus.</p>
+                <h5>Usage Baesd Insurance data summary and analysis</h5>
+                <p class="para-agileits-w3layouts">analyst in a collaborating
+                  group of China Insurance Information Technology Management </p>
+                <p class="para-agileits-w3layouts">• Collected Internet of
+                  Vehicle data from seven different In-Vehicle-Data-Recorder
+                  data companies
+                  • Verified data quality, removed illegal records and labeled
+                  illegal data recorders </p>
+                <p class="para-agileits-w3layouts">• Calculated factors for
+                  further modeling, including accumulated mileage, active time
+                  interval, and driving
+                  behaviors</p>
               </div>
             </div>
             <div class="activity-row agileits w3layouts">
               <div class="activity-img agileits w3layouts">
-                <h6>2012-2014</h6>
+                <h6>08/2017-10/2017</h6>
               </div>
               <div class="activity-desc agileits w3layouts">
-                <h5>Sitamet</h5>
-                <p class="para-agileits-w3layouts">Lorem Ipsum is simply dummy
-                  text of the printing and typesetting industry.</p>
+                <h5>Modeling to make quantitative prediction in financial market</h5>
+                <p class="para-agileits-w3layouts">intern analyst in Belt &amp;
+                  Road (Beijing) Technology, wholly-owned financial technology
+                  subsidiaries subsidiary
+                  of Genial Flow Asset Management </p>
+                <p class="para-agileits-w3layouts">• Collected data of annual
+                  report of companies, open market price, sales, and monitoring
+                  data of upstream
+                  and downstream from Wind information in R language </p>
+                <p class="para-agileits-w3layouts">• Established regression
+                  model to predict overall operating conditions of companies in
+                  aimed industries,
+                  including business scale, cost, profits and cash flow. All the
+                  models performed accuracy over 80 percent. </p>
+                <p class="para-agileits-w3layouts">• Applied iterative sure
+                  independence screening method to select variables, reduced the
+                  time of establishing
+                  a field model to 25 minutes </p>
+                <p class="para-agileits-w3layouts">• Models were collected into
+                  Genial Flow information bank, codes are still active now</p>
               </div>
             </div>
             <div class="activity-row agileits w3layouts">
               <div class="activity-img agileits w3layouts">
-                <h6>2008-2011</h6>
+                <h6>07/2015-08/2015</h6>
               </div>
               <div class="activity-desc agileits w3layouts">
-                <h5>Consectetur</h5>
-                <p class="para-agileits-w3layouts">Lorem ipsum dolor sit amet,
-                  consectetur adipiscing elit. Pellentesque nec congue risus. In
-                  non nulla lacus. Maecenas eros sapien, eleifend quis augue eu,
-                  pellentesque tincidunt tellus.</p>
+                <h5>The China Health and Retirement Longitudinal Study</h5>
+                <p class="para-agileits-w3layouts">pioneer in a interview team,
+                  honored as outstanding interviewer </p>
+                <p class="para-agileits-w3layouts">This is a face-to-face
+                  interview with elders (over 55 years old) in rural areas all
+                  over China, conducted by National
+                  School of Development, Peking University. The interview
+                  includes detailed questions on all aspects, covering
+                  their current health, pathography, medicare, and daily care.
+                  As a longitudinal study, the previous respondents
+                  must be found and interviewed again. </p>
+                <p class="para-agileits-w3layouts">• Served as team guide,
+                  including planing trips, ordering shelters, guided other team
+                  members to respondents’
+                  residence
+                  • Complicated interview for 32 respondents in 7 villages in 3
+                  different area in Shanxi Province </p>
+                <p class="para-agileits-w3layouts">• Performed general medical
+                  examination to respondents with the help of local hospital,
+                  including physical
+                  examination and blood tests </p>
+                <p class="para-agileits-w3layouts">• Interviewed local
+                  government officer concerning the medicare and pension policy
+                  and effect of implement</p>
               </div>
             </div>
           </div>
@@ -257,50 +317,70 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
       <div class="container">
         <div class="col-md-6 lang-left-w3-agile">
           <div class="title-wthree">
-            <h5 class="title-w3">Language Skills</h5>
+            <h5 class="title-w3">language Skills</h5>
           </div>
-          <p class="para-agileits-w3layouts">Lorem ipsum dolor sit amet,
-            consectetur adipiscing elit. Pellentesque nec congue risus. In non
-            nulla lacus. Maecenas eros sapien, eleifend quis augue eu,
-            pellentesque tincidunt tellus</p>
+          <p class="para-agileits-w3layouts"><br>
+          </p>
         </div>
         <div class="col-md-6 w3l_about_bottom_grid_right bar-grids">
-          <h6>English<span> 100% </span></h6>
+          <h6>R language<span> 70% </span></h6>
           <div class="progress">
-            <div class="progress-bar progress-bar-striped active" style="width: 100%">
+            <div class="progress-bar progress-bar-striped active" style="width: 70%">
             </div>
           </div>
           <div class="mid-bar">
-            <h6>Dutch<span> 85% </span></h6>
+            <h6>LaTeX<span> 50% </span></h6>
             <div class="progress">
-              <div class="progress-bar progress-bar-striped active" style="width: 85%">
+              <div class="progress-bar progress-bar-striped active" style="width: 50%">
               </div>
             </div>
           </div>
           <div class="mid-bar">
-            <h6>Dutch2<span> 85% </span></h6>
+            <h6>Python<span> 45% </span></h6>
             <div class="progress">
-              <div class="progress-bar progress-bar-striped active" style="width: 85%">
+              <div class="progress-bar progress-bar-striped active" style="width: 45%">
               </div>
             </div>
           </div>
           <div class="mid-bar">
-            <h6>Dutch3<span> 85% </span></h6>
+            <h6>SPSS<span> 30% </span></h6>
             <div class="progress">
-              <div class="progress-bar progress-bar-striped active" style="width: 85%">
+              <div class="progress-bar progress-bar-striped active" style="width: 30%">
               </div>
             </div>
           </div>
-          <h6>Hindi<span>67% </span></h6>
+          <h6>Eviews<span>30% </span></h6>
           <div class="progress">
-            <div class="progress-bar progress-bar-striped active" style="width: 67%">
+            <div class="progress-bar progress-bar-striped active" style="width: 30%">
             </div>
           </div>
         </div>
         <div class="clearfix"> </div>
-         </div>
+      </div>
     </div>
     <!-- //language -->
+    <!-- gallery -->
+    <div class="gallery" id="portfolio">
+      <div class="container">
+        <div class="title-wthree">
+          <h5 class="title-w3"><span>07</span>Portfolio</h5>
+          <div class="clearfix"></div>
+        </div>
+        <div class="w3ls_gallery_grids">
+          <div class="col-md-4 w3_agile_gallery_grid">
+            <div class="agile_gallery_grid"> <a title="Donec sapien massa, placerat ac sodales ac, feugiat quis est."
+
+                href="images/1.jpg">
+                <div class="agile_gallery_grid1"> <img src="images/1.jpg" alt=" "
+
+                    class="img-responsive"> </div>
+              </a> </div>
+          
+          <div class="clearfix"></div>
+        </div>
+      </div>
+    </div>
+    <!-- //gallery -->
     <!-- footer -->
     <!-- contact -->
     <div class="contact-agileits-w3layouts" id="contact">
