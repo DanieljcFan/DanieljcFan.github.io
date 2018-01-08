@@ -676,14 +676,14 @@ h3.subheading-agileits-w3layouts {
 
 .about-border-w3ls {
 	position: absolute;
-	padding: 24.95em 21em;
+	padding: 22em 21em;
 	border: 24px solid #000;
 }
 
 .person-info-agileits-w3layouts {
 	padding: 3em;
 	background: #47cf73;
-	position: absolute;
+	position: relative;
 	left: 3em;
 	top: 4.4em;
 	box-shadow: -3px 7px 15px rgba(21, 21, 21, 0.38);
